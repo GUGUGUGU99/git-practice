@@ -1,7 +1,3 @@
-아래 내용 그대로 **노션 / VS Code README.md**에 복붙해서 쓰면 되는 “오늘 Git + 터미널 + VS Code 정리본”입니다.
-
----
-
 # 📚 2026 05 18 오늘 배운 내용 총정리 (CMD / PowerShell / Git / VS Code)
 
 # 💻 1. 터미널 기본 개념
